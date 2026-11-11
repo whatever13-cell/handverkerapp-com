@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="nb-NO">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mobilmal for tilbud, arbeidsordre og faktura for totalrenovering og rehabilitering (2026) · HåndverkerApp Studio</title>
+<meta name="description" content="Gratis norsk mal for tilbud, servicerapport og EHF-faktura for totalrenovering og rehabilitering (Byggherreforskriften § 15 (elektronisk mannskapsliste), NS 8405 / NS 8407 / NS 3426, HMS-kort og § 32) — og hvordan du gjør det på 60 sekunder med stemmen i appen.">
+<link rel="canonical" href="https://handverkerapp.com/maler/totalrenovering/">
+<meta property="og:locale" content="nb_NO">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="HåndverkerApp Studio">
+<meta property="og:title" content="Mobilmal for tilbud, arbeidsordre og faktura for totalrenovering og rehabilitering (2026) · HåndverkerApp Studio">
+<meta property="og:description" content="Gratis norsk mal for tilbud, servicerapport og EHF-faktura for totalrenovering og rehabilitering (Byggherreforskriften § 15 (elektronisk mannskapsliste), NS 8405 / NS 8407 / NS 3426, HMS-kort og § 32) — og hvordan du gjør det på 60 sekunder med stemmen i appen.">
+<meta property="og:url" content="https://handverkerapp.com/maler/totalrenovering/">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20width%3D%2264%22%20height%3D%2264%22%20rx%3D%2215%22%20fill%3D%22%23fff%22%2F%3E%3Cg%20transform%3D%22translate(7%207)%20scale(.78125)%22%3E%3Crect%20fill%3D%22%230B0B0D%22%20x%3D%226%22%20y%3D%226%22%20width%3D%2235%22%20height%3D%2235%22%20rx%3D%2211%22%2F%3E%3Crect%20fill%3D%22%23FFC21A%22%20x%3D%2223%22%20y%3D%2223%22%20width%3D%2235%22%20height%3D%2235%22%20rx%3D%2211%22%2F%3E%3Cpath%20fill%3D%22%23FFE9A8%22%20d%3D%22M34%2023h7v7a11%2011%200%200%201-11%2011h-7v-7a11%2011%200%200%201%2011-11z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E">
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#F5F5F7;color:#0B0B0D}
+a{color:#9A6700}
+.cab{position:sticky;top:0;z-index:40;background:rgba(255,255,255,.88);backdrop-filter:blur(16px);border-bottom:1px solid rgba(11,11,13,.08)}
+.cab-in{max-width:1216px;margin:0 auto;height:66px;padding:0 24px;display:flex;align-items:center;justify-content:space-between;gap:16px}
+.nav{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.nav a,.dd>summary{color:#0B0B0D;text-decoration:none;font-size:14px;font-weight:600;padding:8px 12px;border-radius:99px;cursor:pointer;list-style:none}
+.dd{position:relative}
+.dd-p{position:absolute;left:0;top:calc(100% + 8px);background:#fff;border:1px solid rgba(11,11,13,.1);border-radius:22px;padding:16px;min-width:320px;box-shadow:0 24px 60px rgba(11,11,13,.18);display:grid;grid-template-columns:repeat(2,minmax(160px,1fr));gap:6px;z-index:60}
+.dd-p a{display:flex;align-items:center;gap:8px;padding:8px 10px;border-radius:12px;text-decoration:none;color:#0B0B0D;font-size:13.5px;font-weight:600}
+.dd-p a:hover{background:#FFF6D2;color:#9A6700}
+.btn-cab{background:#FFC21A;color:#0B0B0D!important;text-decoration:none;padding:10px 18px;border-radius:99px;font-weight:700;font-size:13.5px;white-space:nowrap}
+.pie{background:#0B0B0D;color:#96979F;padding:64px 0 36px;margin-top:64px}
+.pie-in{max-width:1216px;margin:0 auto;padding:0 24px}
+.pie-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:28px;margin-top:28px}
+.pie h3{color:#FFC21A;font-size:12px;text-transform:uppercase;letter-spacing:.09em;margin:0 0 12px}
+.pie a{display:block;color:#D4D5DC;text-decoration:none;padding:4px 0;font-size:13.5px}
+.pie a:hover{color:#FFC21A}
+.app-store-list{background:#fff;border:1px solid rgba(11,11,13,.08);border-radius:28px;overflow:hidden;box-shadow:0 8px 24px -10px rgba(11,11,13,.1)}
+.app-store-row{display:grid;grid-template-columns:40px 1fr 180px 160px 130px;align-items:center;gap:14px;padding:18px 22px;border-bottom:1px solid rgba(11,11,13,.06)}
+.quiz-box{background:#fff;border:1px solid rgba(11,11,13,.08);border-radius:28px;padding:28px;margin-top:20px;box-shadow:0 8px 24px -10px rgba(11,11,13,.12)}
+@media(max-width:860px){.app-store-row{grid-template-columns:32px 1fr auto}.app-store-row .hide-m{display:none}.dd-p{grid-template-columns:1fr;min-width:260px}}
+
+/* ── ACABADO byggeplass-apper.no ── */
+:root{--tinta:#0B0B0D;--gris:#5F6069;--gris2:#96979F;--linea:#EAEAEE;--fondo:#F5F5F7;--am:#FFC21A;--oro:#9A6700;--r:24px;--pelo:rgba(11,11,13,.08);
+--redondo:"Sora",-apple-system,BlinkMacSystemFont,system-ui,sans-serif;
+--z1:0 1px 2px rgba(11,11,13,.04),0 8px 24px -10px rgba(11,11,13,.12);--z2:0 2px 6px rgba(11,11,13,.05),0 32px 72px -24px rgba(11,11,13,.28)}
+html{scroll-padding-top:84px}body{font-family:var(--redondo);background:var(--fondo);color:var(--tinta);line-height:1.58;text-rendering:optimizeLegibility}
+::selection{background:var(--am);color:#111}:focus-visible{outline:2px solid #E0A800;outline-offset:3px;border-radius:8px}
+h1,h2,h3{font-weight:700;letter-spacing:-.04em;word-spacing:.06em}
+.logo-t{display:inline-flex;align-items:center;gap:9px;font-size:19px;letter-spacing:-.05em}.logo-m{width:30px;height:30px;flex:none}.lm-1{fill:var(--tinta)}.lm-2{fill:var(--am)}.lm-3{fill:#FFE9A8}
+.logo-w{display:inline-flex;align-items:baseline;white-space:nowrap}.logo-w1,.logo-w2{font-weight:700}.logo-de{font-weight:400;color:var(--oro);margin:0 .04em}
+.a-hero{background:radial-gradient(760px 460px at -4% -10%,rgba(255,194,26,.34),transparent 62%),#0A0A0C;color:#fff;padding:56px 0}
+.a-hero h1{color:#fff;font-size:clamp(30px,4.2vw,52px);font-weight:700;line-height:1.06;margin:10px 0 14px}
+.a-lead{color:rgba(255,255,255,.76);font-size:18px;max-width:760px;margin:0}
+.a-kicker{display:inline-block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:#F4E3A6;margin-bottom:8px}
+.a-wrap{max-width:1216px;margin:0 auto;padding:0 24px}
+.a-sec{padding:48px 0;border-bottom:1px solid var(--linea)}
+.a-sec h2{font-size:clamp(24px,3vw,36px);font-weight:700;margin:0 0 16px;color:var(--tinta)}
+.a-respuesta-corta{background:linear-gradient(135deg,#FFF6D2,#FFFAE8);border:1px solid rgba(224,168,0,.28);border-radius:26px;padding:28px;margin:32px 0}
+.a-rc-kicker{font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.09em;color:var(--oro);margin-bottom:8px}
+.a-rc-preg{font-size:22px;font-weight:700;margin:0 0 10px;color:var(--tinta)}
+.a-rc-resp{font-size:17px;line-height:1.6;margin:0 0 14px;color:var(--tinta)}
+.a-rc-lista{margin:0;padding-left:20px;color:var(--gris)}
+.a-rc-lista li{margin:6px 0}
+.a-criterios-grid,.a-vf-grid,.a-tests-wrap{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:18px;margin-top:20px}
+.a-crit-card,.a-vf-col,.a-test-card{background:#fff;border:1px solid var(--pelo);border-radius:26px;padding:24px;box-shadow:var(--z1)}
+.a-crit-num,.a-test-badge{display:inline-block;font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;background:#FFF6D2;color:var(--oro);padding:4px 10px;border-radius:99px;margin-bottom:10px}
+.a-test-top{display:flex;justify-content:space-between;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:8px}
+.a-test-win{font-size:13px;color:#0B6B3E;background:#E3F6EB;padding:4px 10px;border-radius:99px}
+.a-test-det{margin-top:12px;border-top:1px solid var(--linea);padding-top:10px;font-size:13.5px}
+.a-test-det summary{cursor:pointer;font-weight:700;color:var(--oro)}
+.a-test-grid{display:grid;gap:6px;margin-top:10px}
+.a-test-row{display:grid;grid-template-columns:150px 1fr;gap:8px;padding:6px 0;border-bottom:1px solid var(--linea)}
+.a-tabla-wrap{overflow-x:auto;background:#fff;border:1px solid var(--pelo);border-radius:26px;box-shadow:var(--z1);margin-top:16px}
+.a-tabla{width:100%;border-collapse:collapse;font-size:14.5px}
+.a-tabla th,.a-tabla td{padding:14px 16px;text-align:left;border-bottom:1px solid var(--linea)}
+.a-tabla thead th{background:#FAFAFC;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--gris)}
+.a-row-win>*{background:#FFFBEB!important}
+.a-chips-wrap{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.a-chip-link{display:inline-flex;align-items:center;gap:8px;padding:10px 16px;border-radius:99px;background:#fff;border:1px solid var(--pelo);color:var(--tinta);text-decoration:none;font-weight:600;font-size:14px;box-shadow:var(--z1)}
+.a-chip-link:hover{border-color:var(--oro);color:var(--oro)}
+.a-btn-pri{display:inline-flex;align-items:center;padding:13px 24px;border-radius:99px;background:var(--am);color:#111;font-weight:700;text-decoration:none}
+.a-btn-sec{display:inline-flex;align-items:center;padding:13px 24px;border-radius:99px;background:#fff;border:1px solid var(--pelo);color:var(--tinta);font-weight:700;text-decoration:none}
+.a-faq-list{display:grid;gap:12px;margin-top:16px}
+.a-faq-item{background:#fff;border:1px solid var(--pelo);border-radius:22px;padding:18px 22px}
+.a-faq-item summary{font-weight:700;font-size:17px;cursor:pointer}
+.a-faq-body p{margin:12px 0 0;color:var(--gris)}
+</style>
+
+</head>
+<body>
+<header class="cab">
+  <div class="cab-in">
+    <a href="/" style="text-decoration:none;color:inherit"><span class="logo-t"><svg class="logo-m" viewBox="0 0 64 64" aria-hidden="true"><rect class="lm-1" x="6" y="6" width="35" height="35" rx="11"/><rect class="lm-2" x="23" y="23" width="35" height="35" rx="11"/><path class="lm-3" d="M34 23h7v7a11 11 0 0 1-11 11h-7v-7a11 11 0 0 1 11-11z"/></svg><span class="logo-w"><span class="logo-w1">handverker</span><span class="logo-de">app</span><span class="logo-w2">.com</span></span></span></a>
+    <nav class="nav" aria-label="Hovedmeny">
+      <a href="/#app-rangering">Topp 7 apper</a>
+      <details class="dd">
+        <summary>Beste app per fag ▾</summary>
+        <div class="dd-p"><a href="/beste-app/rorlegger/"><span></span><span>Rørlegger og VVS</span></a><a href="/beste-app/elektriker/"><span></span><span>Elektriker og elektroinstallatør</span></a><a href="/beste-app/ventilasjon-varmepumpe/"><span>❄</span><span>Ventilasjon, kulde og varmepumpe</span></a><a href="/beste-app/lasesmed/"><span></span><span>Låsesmed og adgangskontroll</span></a><a href="/beste-app/solceller/"><span>☀</span><span>Solceller og energianlegg</span></a><a href="/beste-app/tomrer-snekker/"><span></span><span>Tømrer, snekker og byggmester</span></a><a href="/beste-app/maler/"><span></span><span>Maler og overflatebehandling</span></a><a href="/beste-app/murer-flislegger/"><span></span><span>Murer, flislegger og våtrom</span></a><a href="/beste-app/totalrenovering/"><span>🏗</span><span>Totalrenovering og rehabilitering</span></a><a href="/beste-app/anleggsgartner/"><span></span><span>Anleggsgartner, grunnarbeid og utemiljø</span></a><a href="/beste-app/basseng-spa/"><span></span><span>Basseng, utendørs massasjebad og velvære</span></a><a href="/beste-app/renhold/"><span></span><span>Renhold, flyttevask og byggrengjøring</span></a><a href="/beste-app/flyttebyra/"><span></span><span>Flyttebyrå og spesialtransport</span></a><a href="/beste-app/hvitevareservice/"><span></span><span>Hvitevareservice og storkjøkken</span></a><a href="/beste-app/glassmester/"><span></span><span>Glassmester, vinduer og fasadeglass</span></a><a href="/beste-app/skadedyrkontroll/"><span>🛡</span><span>Skadedyrkontroll og sanering</span></a><a href="/beste-app/garasjeporter/"><span></span><span>Garasjeporter, solskjerming og portautomatikk</span></a><a href="/beste-app/vaktmester-borettslag/"><span></span><span>Vaktmester og eiendomsdrift (borettslag og sameier)</span></a></div>
+      </details>
+      <details class="dd">
+        <summary>7 mobiloppgaver ▾</summary>
+        <div class="dd-p"><a href="/arbeidsordre-med-signatur/"><span>✍</span><span>Arbeidsordre med signatur</span></a><a href="/timeforing-gps-byggeplass/"><span></span><span>Timeføring & GPS</span></a><a href="/app-uten-dekning-offline/"><span></span><span>Offline-app uten dekning</span></a><a href="/tilbud-med-stemme/"><span>🎙</span><span>Tilbud med stemme (AI)</span></a><a href="/skanne-kvitteringer-pakksedler-app/"><span></span><span>Skanne pakksedler & kvitteringer</span></a><a href="/ai-sekretaer-whatsapp-telefon-handverker/"><span></span><span>AI-sekretær (Sofi)</span></a><a href="/beste-handverker-app-norge-ios-android/"><span></span><span>Beste håndverker-app 2026</span></a></div>
+      </details>
+      <details class="dd">
+        <summary>7 app-tester ▾</summary>
+        <div class="dd-p"><a href="/app/avantium/"><span>Avantium</span></a><a href="/app/svenn/"><span>Svenn</span></a><a href="/app/tripletex/"><span>Tripletex Elektro & VVS</span></a><a href="/app/drifti/"><span>Drifti</span></a><a href="/app/smartdok/"><span>SmartDok</span></a><a href="/app/speedycraft/"><span>SpeedyCraft (Mobile Worker)</span></a><a href="/app/fiken/"><span>Fiken</span></a></div>
+      </details>
+      <a href="/vs/">App vs. App</a>
+      <a href="/arbeidsordre-med-signatur/">Arbeidsordre & signatur</a>
+      <a href="/slik-tester-vi/">Slik tester vi</a>
+    </nav>
+    <a href="/app/avantium/" class="btn-cab">4,9 ★ Vinner-app →</a>
+  </div>
+</header>
+
+
+  <header class="a-hero">
+    <div class="a-wrap">
+      <div class="a-kicker">HåndverkerApp Studio · Norske bransjemaler 2026 · Klar for EHF og § 32</div>
+      <h1>🏗Mal for tilbud, arbeidsordre og faktura for totalrenovering og rehabilitering (2026)</h1>
+      <p class="a-lead">Ferdig oppsett med lovpålagte felter etter bokføringsforskriften § 5-1-1, håndverkertjenesteloven § 32 (fastpris vs. prisoverslag ±15 %) og Byggherreforskriften § 15 (elektronisk mannskapsliste), NS 8405 / NS 8407 / NS 3426, HMS-kort og § 32 — pluss hvorfor håndverkere bytter ut Excel med stemmetilbud i mobilen.</p>
+    </div>
+  </header>
+
+  <main class="a-wrap">
+    
+  <section class="a-respuesta-corta" aria-label="Kort oppsummering">
+    <div class="a-rc-kicker">Kort svar · Oppdatert november 2026</div>
+    <h2 class="a-rc-preg">Hva må stå i et gyldig tilbud og en faktura for totalrenovering og rehabilitering i Norge?</h2>
+    <p class="a-rc-resp">Et profesjonelt tilbud og salgsdokument for totalrenovering og rehabilitering må skille tydelig mellom Fastpris, Prisoverslag (med 15 %-tak etter håndverkertjenesteloven § 32) og Timepris, spesifisere arbeid og materiell med 25 % MVA, oppgi 9-sifret Org.nr. + MVA, «Foretaksregisteret», arbeidssted og KID-nummer (MOD10), samt knytte ved lovpålagt dokumentasjon (Byggherreforskriften § 15 (elektronisk mannskapsliste), NS 8405 / NS 8407 / NS 3426, HMS-kort og § 32).</p>
+    <ul class="a-rc-lista"><li>Under finner du et komplett norsk eksempel med reelle poster og beløp i kroner.</li><li>Husk at fra 1. januar 2027 må fakturaer til bedriftskunder, borettslag og hovedentreprenører sendes som EHF (Peppol BIS 3.0).</li><li>Med Avantium snakker du inn disse postene med stemmen på befaring på 60 sekunder i stedet for å skrive i Excel om kvelden.</li></ul>
+  </section>
+
+    <section class="a-sec">
+      <h2>Eksempel på komplett norsk tilbud og fakturaoppsett for totalrenovering og rehabilitering</h2>
+      <div class="a-plantilla-doc" style="background:#fff;border:1px solid #cbd5e1;border-radius:16px;padding:24px;box-shadow:0 8px 24px rgba(15,23,42,.05)">
+        <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;border-bottom:2px solid #0f172a;padding-bottom:16px;margin-bottom:16px">
+          <div>
+            <div style="font-size:12px;font-weight:700;text-transform:uppercase;color:#475569">Utsteder (Håndverksbedrift)</div>
+            <strong style="font-size:18px">Nordic Totalrenovering og rehabilitering AS</strong>
+            <div style="font-size:13px;color:#334155">Org.nr.: NO 928 451 632 MVA · Foretaksregisteret</div>
+            <div style="font-size:13px;color:#334155">Fagstandard: Byggherreforskriften § 15 (elektronisk mannskapsliste), NS 8405 / NS 8407 / NS 3426, HMS-kort og § 32</div>
+          </div>
+          <div style="text-align:right">
+            <div style="font-size:12px;font-weight:700;text-transform:uppercase;color:#E8610A">Tilbud / Ordrebekreftelse #2026-0418</div>
+            <div style="font-size:13px;color:#334155"><strong>Prisform:</strong> Prisoverslag (jf. håndverkertjenesteloven § 32)</div>
+            <div style="font-size:13px;color:#334155"><strong>Arbeidssted:</strong> Kirkeveien 64, 0364 Oslo · Gnr. 215 / Bnr. 88</div>
+            <div style="font-size:13px;color:#334155"><strong>KID (MOD10):</strong> 0020260418019 · <strong>EHF / Peppol:</strong> 0192:928451632</div>
+          </div>
+        </div>
+
+        <div class="a-tabla-wrap">
+          <table class="a-tabla">
+            <thead>
+              <tr>
+                <th>Post</th>
+                <th>Beskrivelse av arbeid og materiell</th>
+                <th>Mengde</th>
+                <th>Sum ekskl. mva.</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+                <tr>
+                  <td><strong>01</strong></td>
+                  <td>Befaring, oppmåling og rigg på arbeidssted (Totalrenovering og rehabilitering)</td>
+                  <td>1 fastpost</td>
+                  <td><strong>2 400 kr</strong></td>
+                </tr>
+                <tr>
+                  <td><strong>02</strong></td>
+                  <td>Levering av fagmateriell og festemidler etter norsk standard (Byggherreforskriften § 15 (elektronisk mannskapsliste))</td>
+                  <td>1 parti</td>
+                  <td><strong>8 600 kr</strong></td>
+                </tr>
+                <tr>
+                  <td><strong>03</strong></td>
+                  <td>Utførelse av faglært totalrenovering og rehabilitering inkl. sjekkliste, bildedokumentasjon og FDV</td>
+                  <td>8 t</td>
+                  <td><strong>8 800 kr</strong></td>
+                </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <div style="display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px;margin-top:18px;padding-top:16px;border-top:1px solid #e2e8f0">
+          <div style="max-width:540px;font-size:13px;color:#334155">
+            <strong>Juridisk forbehold (§ 32):</strong> Dersom oppdraget utføres etter prisoverslag, kan sluttprisen ikke overstige 28 462 kr inkl. mva. (+15 %) uten at tilleggsarbeid er skriftlig bestilt og godkjent av kunden. Sjekkliste og FDV/samsvar leveres digitalt ved ferdigstillelse.
+          </div>
+          <div style="text-align:right;min-width:220px">
+            <div>Sum ekskl. mva.: <strong>19 800 kr</strong></div>
+            <div>25 % MVA: <strong>4 950 kr</strong></div>
+            <div style="font-size:20px;margin-top:4px;color:#0f172a">Totalt inkl. mva.: <strong>24 750 kr</strong></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="a-sec">
+      <h2>Excel- og Word-malen vs. å snakke inn tilbudet på 60 sekunder i Avantium</h2>
+      <div class="a-tabla-wrap">
+        <table class="a-tabla">
+          <thead>
+            <tr>
+              <th>Oppgave i hverdagen (Totalrenovering og rehabilitering)</th>
+              <th>Med gratis Excel / Word-mal</th>
+              <th>Med Avantium (690 kr/mnd)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Lage tilbud etter befaring</strong></td>
+              <td>25–40 minutter foran PC-en hjemme om kvelden</td>
+              <td><strong>60 sekunder med stemmen</strong> i servicebilen før du kjører videre</td>
+            </tr>
+            <tr>
+              <td><strong>Kundens aksept og signatur</strong></td>
+              <td>Kunden må skrive ut, signere eller svare løst på e-post</td>
+              <td><strong>Digital signatur med ett trykk</strong> på kundens mobil via SMS-lenke</td>
+            </tr>
+            <tr>
+              <td><strong>Kontroll på +15 %-grensen (§ 32)</strong></td>
+              <td>Ingen varsling — du taper penger hvis timene løper</td>
+              <td><strong>Automatisk varsel ved +10 % og sperre ved +15 %</strong> uten endringsmelding</td>
+            </tr>
+            <tr>
+              <td><strong>Fagsjekkliste og bildedokumentasjon</strong></td>
+              <td>Løse bilder på kamerarullen og papirskjema i bilen</td>
+              <td><strong>Innebygd sjekkliste (Byggherreforskriften § 15 (elektronisk mannskapsliste))</strong> med før-/etterbilder offline</td>
+            </tr>
+            <tr>
+              <td><strong>EHF-faktura 2027 og KID-nummer</strong></td>
+              <td>Excel kan ikke sende EHF i Peppol-nettverket eller lage MOD10-KID</td>
+              <td><strong>Ett trykk fra signert ordre til EHF-faktura med KID og betalingslenke</strong></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div style="margin-top:18px;display:flex;gap:12px;flex-wrap:wrap">
+        <a href="https://avantium.app/no" class="a-btn-pri">Prøv Avantium i Norge (avantium.app/no) →</a>
+        <a href="/beste-app/totalrenovering/" class="a-btn-sec">Se beste fagsystem for totalrenovering og rehabilitering →</a>
+        <a href="/tilbud-med-stemme/" class="a-btn-sec">Les dybdeartikkel og test →</a>
+      </div>
+    </section>
+
+    <section class="a-sec">
+      <h2>Maler for de 17 andre fagområdene</h2>
+      <div class="a-chips-wrap"><a href="/maler/rorlegger/" class="a-chip-link">Mal for rørlegger og vvs</a><a href="/maler/elektriker/" class="a-chip-link">Mal for elektriker og elektroinstallatør</a><a href="/maler/ventilasjon-varmepumpe/" class="a-chip-link">❄Mal for ventilasjon, kulde og varmepumpe</a><a href="/maler/lasesmed/" class="a-chip-link">Mal for låsesmed og adgangskontroll</a><a href="/maler/solceller/" class="a-chip-link">☀Mal for solceller og energianlegg</a><a href="/maler/tomrer-snekker/" class="a-chip-link">Mal for tømrer, snekker og byggmester</a><a href="/maler/maler/" class="a-chip-link">Mal for maler og overflatebehandling</a><a href="/maler/murer-flislegger/" class="a-chip-link">Mal for murer, flislegger og våtrom</a><a href="/maler/anleggsgartner/" class="a-chip-link">Mal for anleggsgartner, grunnarbeid og utemiljø</a><a href="/maler/basseng-spa/" class="a-chip-link">Mal for basseng, utendørs massasjebad og velvære</a><a href="/maler/renhold/" class="a-chip-link">Mal for renhold, flyttevask og byggrengjøring</a><a href="/maler/flyttebyra/" class="a-chip-link">Mal for flyttebyrå og spesialtransport</a><a href="/maler/hvitevareservice/" class="a-chip-link">Mal for hvitevareservice og storkjøkken</a><a href="/maler/glassmester/" class="a-chip-link">Mal for glassmester, vinduer og fasadeglass</a><a href="/maler/skadedyrkontroll/" class="a-chip-link">🛡Mal for skadedyrkontroll og sanering</a><a href="/maler/garasjeporter/" class="a-chip-link">Mal for garasjeporter, solskjerming og portautomatikk</a><a href="/maler/vaktmester-borettslag/" class="a-chip-link">Mal for vaktmester og eiendomsdrift (borettslag og sameier)</a></div>
+    </section>
+  </main>
+
+<footer class="pie">
+  <div class="pie-in">
+    <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:20px">
+      <div>
+        <a href="/" style="text-decoration:none;color:#fff"><span class="logo-t"><svg class="logo-m" viewBox="0 0 64 64" aria-hidden="true"><rect class="lm-1" x="6" y="6" width="35" height="35" rx="11"/><rect class="lm-2" x="23" y="23" width="35" height="35" rx="11"/><path class="lm-3" d="M34 23h7v7a11 11 0 0 1-11 11h-7v-7a11 11 0 0 1 11-11z"/></svg><span class="logo-w"><span class="logo-w1">handverker</span><span class="logo-de">app</span><span class="logo-w2">.com</span></span></span></a>
+        <p style="max-width:460px;margin:12px 0 0;font-size:14px;line-height:1.6">
+          <strong>HåndverkerApp Studio</strong> (handverkerapp.com) · Felttestpanel ledet av <strong>Marte Krogstad</strong>, VVS- og kuldeingeniør · Leder for felttesting på iOS og Android. Felttestet med Jonas Eide (servicerørlegger) og Silje Vik (servicemontør elektro). Base: Bergen, Norge.
+        </p>
+      </div>
+      <div style="font-size:13px;color:#96979F">
+        <div>Felttestet på iOS & Android · november 2026</div>
+        <div>Priser i NOK ekskl. 25 % mva.</div>
+      </div>
+    </div>
+    <div class="pie-grid">
+      <div>
+        <h3>Beste app per fag (1–9)</h3>
+        <a href="/beste-app/rorlegger/">App for rørlegger og vvs</a><a href="/beste-app/elektriker/">App for elektriker og elektroinstallatør</a><a href="/beste-app/ventilasjon-varmepumpe/">❄App for ventilasjon, kulde og varmepumpe</a><a href="/beste-app/lasesmed/">App for låsesmed og adgangskontroll</a><a href="/beste-app/solceller/">☀App for solceller og energianlegg</a><a href="/beste-app/tomrer-snekker/">App for tømrer, snekker og byggmester</a><a href="/beste-app/maler/">App for maler og overflatebehandling</a><a href="/beste-app/murer-flislegger/">App for murer, flislegger og våtrom</a><a href="/beste-app/totalrenovering/">🏗App for totalrenovering og rehabilitering</a>
+      </div>
+      <div>
+        <h3>Beste app per fag (10–18)</h3>
+        <a href="/beste-app/anleggsgartner/">App for anleggsgartner, grunnarbeid og utemiljø</a><a href="/beste-app/basseng-spa/">App for basseng, utendørs massasjebad og velvære</a><a href="/beste-app/renhold/">App for renhold, flyttevask og byggrengjøring</a><a href="/beste-app/flyttebyra/">App for flyttebyrå og spesialtransport</a><a href="/beste-app/hvitevareservice/">App for hvitevareservice og storkjøkken</a><a href="/beste-app/glassmester/">App for glassmester, vinduer og fasadeglass</a><a href="/beste-app/skadedyrkontroll/">🛡App for skadedyrkontroll og sanering</a><a href="/beste-app/garasjeporter/">App for garasjeporter, solskjerming og portautomatikk</a><a href="/beste-app/vaktmester-borettslag/">App for vaktmester og eiendomsdrift (borettslag og sameier)</a>
+      </div>
+      <div>
+        <h3>Anmeldelser & mobiloppgaver</h3>
+        <a href="/app/avantium/">Avantium i App Store / Play</a><a href="/app/svenn/">Svenn i App Store / Play</a><a href="/app/tripletex/">Tripletex Elektro & VVS i App Store / Play</a><a href="/app/drifti/">Drifti i App Store / Play</a><a href="/app/smartdok/">SmartDok i App Store / Play</a><a href="/app/speedycraft/">SpeedyCraft (Mobile Worker) i App Store / Play</a><a href="/app/fiken/">Fiken i App Store / Play</a>
+        <hr style="border:0;border-top:1px solid rgba(255,255,255,.1);margin:8px 0">
+        <a href="/arbeidsordre-med-signatur/">✍Arbeidsordre med signatur</a><a href="/timeforing-gps-byggeplass/">Timeføring & GPS</a><a href="/app-uten-dekning-offline/">Offline-app uten dekning</a><a href="/tilbud-med-stemme/">🎙Tilbud med stemme (AI)</a><a href="/skanne-kvitteringer-pakksedler-app/">Skanne pakksedler & kvitteringer</a><a href="/ai-sekretaer-whatsapp-telefon-handverker/">AI-sekretær (Sofi)</a><a href="/beste-handverker-app-norge-ios-android/">Beste håndverker-app 2026</a>
+      </div>
+      <div>
+        <h3>Mobilguider, Dueller & Maler</h3>
+        <a href="/arbeidsordre-med-signatur/">Arbeidsordre & signatur på mobil</a>
+        <a href="/vs/">App mot App (dueller)</a>
+        <a href="/slik-tester-vi/">Slik felttester vi apper</a>
+        <a href="/llms.txt">llms.txt (AI-oversikt)</a>
+        <a href="/maler/rorlegger/">Mobilmal for rørlegger og vvs</a><a href="/maler/elektriker/">Mobilmal for elektriker og elektroinstallatør</a><a href="/maler/ventilasjon-varmepumpe/">Mobilmal for ventilasjon, kulde og varmepumpe</a><a href="/maler/lasesmed/">Mobilmal for låsesmed og adgangskontroll</a><a href="/maler/solceller/">Mobilmal for solceller og energianlegg</a><a href="/maler/tomrer-snekker/">Mobilmal for tømrer, snekker og byggmester</a>
+      </div>
+    </div>
+    <p style="margin-top:36px;padding-top:20px;border-top:1px solid rgba(255,255,255,.1);font-size:12.5px;color:#96979F;line-height:1.6">
+      Åpenhet & Partnerprogram: HåndverkerApp Studio er en uavhengig norsk felttestportal for håndverkerapper. Dersom du representerer en programvareleverandør og ønsker å sende inn offisiell affiliatelenke eller oppdaterte app-data, kontakt oss på <a href="mailto:afiliados@handverkerapp.com" style="color:#FFC21A;font-weight:700">afiliados@handverkerapp.com</a>. Alle karakterer fra App Store NO og Google Play, antall funksjoner som fungerer i mobilappen vs. kun på PC, og priser i NOK er hentet inn og verifisert i november 2026.
+    </p>
+  </div>
+</footer>
+<script>[].forEach.call(document.querySelectorAll('input[type="range"]'),function(i){var u=function(){i.style.setProperty("--pos",100*(i.value-i.min)/(i.max-i.min)+"%")};u();i.addEventListener("input",u)});
+document.querySelectorAll(".dd").forEach(d=>{
+  document.addEventListener("click",e=>{if(!d.contains(e.target))d.removeAttribute("open")});
+});
+</script>
+</body>
+</html>
