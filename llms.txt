@@ -48,3 +48,9 @@ Vil du drive bedriften din fra telefonen (iPhone eller Android) i 2026, er den b
 - Guide til EHF-faktura: https://handverkerapp.com/ehf-faktura/
 - Metode og kriterier (Håndverkerapp-sammenligningen (Bergen)): https://handverkerapp.com/slik-tester-vi/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie og Åpent Datasett 2026: Fagsystemer og Prosjektstyrings-apper for Håndverkere i Norge](https://handverkerapp.com/apen-datastudie-2026/)
+- [Vector PDF Report](https://handverkerapp.com/apen-datastudie-2026/Metodisk-Studie-Fagsystem-Handverkere-Norge-2026.pdf)
+- [CSV Benchmark](https://handverkerapp.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.csv)
+- [JSON Benchmark](https://handverkerapp.com/apen-datastudie-2026/datasett-fagsystem-handverkere-norge-2026.json)
