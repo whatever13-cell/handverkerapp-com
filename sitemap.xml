@@ -1,92 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://handverkerapp.com/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/rorlegger/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/rorlegger/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/elektriker/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/elektriker/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/ventilasjon-varmepumpe/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/ventilasjon-varmepumpe/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/lasesmed/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/lasesmed/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/solceller/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/solceller/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/tomrer-snekker/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/tomrer-snekker/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/maler/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/maler/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/murer-flislegger/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/murer-flislegger/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/totalrenovering/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/totalrenovering/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/anleggsgartner/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/anleggsgartner/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/basseng-spa/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/basseng-spa/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/renhold/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/renhold/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/flyttebyra/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/flyttebyra/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/hvitevareservice/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/hvitevareservice/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/glassmester/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/glassmester/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/skadedyrkontroll/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/skadedyrkontroll/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/garasjeporter/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/garasjeporter/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-app/vaktmester-borettslag/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/maler/vaktmester-borettslag/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/app/avantium/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/svenn/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/cordel/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/tripletex/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/drifti/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/smartdok/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/speedycraft/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/holte/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/app/fiken/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/vs/avantium-vs-tripletex/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/tripletex-vs-fiken/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/avantium-vs-fiken/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/avantium-vs-svenn/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/svenn-vs-drifti/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/avantium-vs-drifti/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/smartdok-vs-svenn/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/avantium-vs-cordel/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/cordel-vs-drifti/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/vs/speedycraft-vs-smartdok/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/tilbud-med-stemme/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/arbeidsordre-med-signatur/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/ai-sekretaer-whatsapp-telefon-handverker/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/app-uten-dekning-offline/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://handverkerapp.com/timeforing-gps-byggeplass/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/skanne-kvitteringer-pakksedler-app/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/anbud-og-akonto-prosjekt/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/beste-handverker-app-norge-ios-android/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/alternativer-til-cordel/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/ehf-faktura/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://handverkerapp.com/slik-tester-vi/</loc><lastmod>2026-11-04</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url>
-    <loc>https://handverkerapp.com/apen-datastudie-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/enkleste-handverker-app-fagsystem-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/mest-komplette-handverker-app-funksjoner-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/oppdragskart-daglige-ruter-handverker-app-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/gratis-ai-sekretaer-whatsapp-handverker-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
+  <url><loc>https://handverkerapp.com/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://handverkerapp.com/tester/rorlegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/rorlegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/elektriker/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/elektriker/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/ventilasjon-varmepumpe/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/ventilasjon-varmepumpe/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/lasesmed/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/solceller/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/solceller/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/tomrer-snekker/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/tomrer-snekker/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/maler/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/maler/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/murer-flislegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/murer-flislegger/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/totalrenovering/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/anleggsgartner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/anleggsgartner/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/basseng-spa/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/renhold/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/renhold/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/flyttebyra/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/hvitevareservice/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/glassmester/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/glassmester/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tester/skadedyrkontroll/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/garasjeporter/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/tester/vaktmester-borettslag/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/maler/vaktmester-borettslag/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/avantium/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/svenn/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/cordel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/tripletex/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/drifti/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/smartdok/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/speedycraft/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/holte/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/rapport/fiken/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/avantium-vs-cordel/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/cordel-vs-holte/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/avantium-vs-holte/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/tripletex-vs-fiken/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/avantium-vs-tripletex/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/drifti-vs-svenn/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/avantium-vs-smartdok/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/speedycraft-vs-drifti/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/avantium-vs-svenn/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/sammenligning/smartdok-vs-holte/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/tilbud-med-stemme/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/arbeidsordre-med-signatur/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timeforing-gps-byggeplass/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/testmetode/</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url>
     <loc>https://handverkerapp.com/alternativer-til-fiken-2026/</loc>
     <lastmod>2026-11-12</lastmod>
@@ -108,6 +74,10 @@
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
+    <loc>https://handverkerapp.com/alternativer-til-speedycraft-2026/</loc>
+    <lastmod>2026-11-12</lastmod>
+  </url>
+  <url>
     <loc>https://handverkerapp.com/alternativer-til-holte-2026/</loc>
     <lastmod>2026-11-12</lastmod>
   </url>
@@ -116,47 +86,7 @@
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://handverkerapp.com/alternativer-til-speedycraft-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-fagsystem-app-rorleggere-vvs-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-fagsystem-app-elektrikere-elinstallatorer-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-varmepumper-kulde-ventilasjon-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-enkeltpersonforetak-handverker-1-person-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-tomrere-malere-rehabilitering-vaktmester-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/tilbud-med-stemme-mobil-handverker-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/digital-arbeidsordre-sjekkliste-offline-signatur-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
     <loc>https://handverkerapp.com/ehf-faktura-fagsystem-handverkere-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/timeregistrering-gps-akonto-prosjektstyring-bygg-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/tilbud-bilag-timebok-whatsapp-ai-handverker-2026/</loc>
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
@@ -164,19 +94,7 @@
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://handverkerapp.com/ehf-faktura-sjekk-handverkere-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
     <loc>https://handverkerapp.com/avantium-vs-fiken-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/avantium-vs-tripletex-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/avantium-vs-svenn-2026/</loc>
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
@@ -184,43 +102,71 @@
     <lastmod>2026-11-12</lastmod>
   </url>
   <url>
-    <loc>https://handverkerapp.com/avantium-vs-smartdok-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/avantium-vs-holte-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/avantium-vs-cordel-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
     <loc>https://handverkerapp.com/avantium-vs-speedycraft-2026/</loc>
     <lastmod>2026-11-12</lastmod>
   </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-tomrere-snekkere-vindusmontering-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-malere-overflatebehandling-fasade-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-anleggsgartnere-utemiljo-vaktmester-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-vaktmester-serviceavtaler-eiendomsdrift-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/beste-app-lasesmed-portservice-metallarbeid-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
-    <loc>https://handverkerapp.com/fra-excel-og-papir-til-handverker-app-2026/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
+  <url><loc>https://handverkerapp.com/avantium/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/hms-kort/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/tek17/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/arbeidsgiveravgift/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/a-melding-og-skattetrekk/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/minstelonn-byggfag/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/ehf-faktura/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/sentral-godkjenning/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/tilbudsmal/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/forsinkelsesrente/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/samsvarserklaering/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/reiseregning-og-bilgodtgjorelse/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/elvirksomhetsregisteret/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/mva-registrering/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/sha-og-sja/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/otp-og-yrkesskade/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/bustadoppforingslova/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/handverkertjenesteloven/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/byggesoknad-ferdigattest/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/laerlinglonn/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/starte-enkeltpersonforetak/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/timepris/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/vatromsnormen/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/elektriker/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/fellesoverenskomsten-byggfag/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/landsoverenskomsten-elektro/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/timeliste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/programmer/handverker-app/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/el-kontroll/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/inkasso-og-purring/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/rorlegger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/fakturamal/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/krav-til-faktura/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/tomrer/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/inkassovarsel/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/maler/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/kabeltverrsnitt/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/mannskapsliste/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/programmer/kalkulasjonsprogram/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/arbeidsordre/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/programmer/prosjektstyring-bygg/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/sykepenger-selvstendig/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/taktekker/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/gulvlegger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/blikkenslager/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/flislegger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/taktekker/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/murer/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/anleggsgartner/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/kjoregodtgjorelse-diett/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/mva-kalkulator/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/feriepenger/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/bokforing-oppbevaring/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/ks-system/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/ns-kontrakter/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/kalkulator/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/skatt/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/lonn/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/timepris/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/bedrift/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/regler/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/maler/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/programmer/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://handverkerapp.com/guider/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
