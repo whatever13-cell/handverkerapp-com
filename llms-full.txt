@@ -2,7 +2,7 @@
 > Sammenligning av programmer til håndverksbedrifter. Utgitt av Håndverkerapp. Sist kontrollert: 9. november 2026 (2026-11-09).
 
 ## Kort svar (2026)
-I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er det beste programmet Avantium (9,0/10): det har 33 av 36 funksjoner på mobilen (tilbud med stemmen, signerte arbeidsordre, prosjekter i faser, kart over teamet og KI-sekretær). Oppstart: 1–2 dager. Pris: 59 €/mnd alt inkludert, også EHF-faktura. Best til regnskap er Fiken; til grossistbestillinger Cordel; og til anbudskalkyle på kontoret EG HoltePortalen.
+I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er det beste programmet Avantium (9,0/10): det har 33 av 36 funksjoner på mobilen (tilbud med stemmen, signerte arbeidsordre, prosjekter i faser, kart over teamet og KI-sekretær). Oppstart: 1–2 dager. Pris: 59 €/mnd i Pro-pakken, også EHF-faktura. Best til regnskap er Fiken; til grossistbestillinger Cordel; og til anbudskalkyle på kontoret EG HoltePortalen.
 
 ## Rangering November 2026 (9 programmer, 36 funksjoner kontrollert)
 1. **Avantium** — **9,0/10** · Passer for: hele bedriften på mobil og pc · Full pris (1 bruker): 59 €/mnd · App: 33/36 funksjoner · PC: 33/36 funksjoner · Oppstart: 1–2 dager · Butikker: 4,9/5 ★ · Analyse: https://handverkerapp.com/rapport/avantium/
@@ -55,7 +55,7 @@ I testene for 2026 for selvstendige og håndverksbedrifter (1–30 personer) er 
 ## Vurderingsmetode: Håndverkerapp (Håndverkerapp)
 - **Utførelse ute og på byggeplass (28 %)**: Andel av de 36 testede funksjonene (tilbud, signerte arbeidsordre, faser, utgifter) som virker fra mobilen.
 - **Tid til oppstart (22 %)**: Hvor lett det er å importere data, og hvor mange dager en selvstendig eller et lag trenger for å mestre programmet.
-- **Reell pris, alt inkludert (20 %)**: Månedspris for pakken med alle moduler for 1 bruker, inkludert tillegg og minimum antall lisenser.
+- **Pris for høyeste pakke (20 %)**: Månedspris for pakken med alle moduler for 1 bruker, inkludert tillegg og minimum antall lisenser.
 - **Styring fra PC (15 %)**: Hva nettleseren på kontoret dekker: funksjoner, lønnsomhet og administrasjon.
 - **Vurderinger i appbutikker (iOS / Play) (15 %)**: Vektet snitt i App Store og Google Play i Norge.
 
